@@ -14,7 +14,7 @@
         "illuminate/contracts": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*",
         "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*",
         "graham-campbell/manager": "dev-master",
-        "toin0u/digitalocean-v2": "^2.0"
+        "toin0u/digitalocean-v2": "^4.0.*"
     },
     "require-dev": {
         "graham-campbell/analyzer": "^2.0",
